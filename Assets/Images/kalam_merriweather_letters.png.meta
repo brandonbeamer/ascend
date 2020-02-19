@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: 561a5e6c6218079418d631e9519b47ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7957237042772200299
+    second: Letter0A
+  - first:
+      213: -5371196759857556740
+    second: Letter0B
+  - first:
+      213: -6975085875639871302
+    second: Letter0C
+  - first:
+      213: -893030648244245248
+    second: Letter0D
+  - first:
+      213: 4816583842258294327
+    second: Letter0E
+  - first:
+      213: -2997400410169385623
+    second: Letter0F
+  - first:
+      213: -7166091632519414638
+    second: Letter0G
+  - first:
+      213: -8412880224789767730
+    second: Letter0H
+  - first:
+      213: 1130638953638661082
+    second: Letter0I
+  - first:
+      213: -1578083714565243627
+    second: Letter0J
+  - first:
+      213: 3825037646775957928
+    second: Letter0K
+  - first:
+      213: 7063856372282807262
+    second: Letter0L
+  - first:
+      213: -2376702318389666842
+    second: Letter0M
+  - first:
+      213: -3436786172364605902
+    second: Letter0N
+  - first:
+      213: 5281701937606331257
+    second: Letter0O
+  - first:
+      213: -3922533375951058313
+    second: Letter0P
+  - first:
+      213: -2085273783243196227
+    second: Letter0Q
+  - first:
+      213: -8565083933647737559
+    second: Letter0R
+  - first:
+      213: -60133952053825280
+    second: Letter0S
+  - first:
+      213: 3686307751074892882
+    second: Letter0T
+  - first:
+      213: 4061857079189444643
+    second: Letter0U
+  - first:
+      213: -8368352961755000091
+    second: Letter0V
+  - first:
+      213: -5805259939620085628
+    second: Letter0W
+  - first:
+      213: -4661444221906426129
+    second: Letter0X
+  - first:
+      213: -722887113566257756
+    second: Letter0Y
+  - first:
+      213: 8224948203436623613
+    second: Letter0Z
+  - first:
+      213: 4089304422749151926
+    second: Letter1A
+  - first:
+      213: -945597358533793672
+    second: Letter1B
+  - first:
+      213: 9040071385202865291
+    second: Letter1C
+  - first:
+      213: 6191656667615245480
+    second: Letter1D
+  - first:
+      213: 5272683447281642941
+    second: Letter1E
+  - first:
+      213: 8689557640552942663
+    second: Letter1F
+  - first:
+      213: 8103742442739456008
+    second: Letter1G
+  - first:
+      213: -2556026847861174251
+    second: Letter1H
+  - first:
+      213: 162593553939352791
+    second: Letter1I
+  - first:
+      213: 2188879228073749319
+    second: Letter1J
+  - first:
+      213: -9210586375231146456
+    second: Letter1K
+  - first:
+      213: -2917983882165991665
+    second: Letter1L
+  - first:
+      213: -8804140643148585073
+    second: Letter1M
+  - first:
+      213: 6562470401103480271
+    second: Letter1N
+  - first:
+      213: 4822182309927553987
+    second: Letter1O
+  - first:
+      213: -7254463452954627692
+    second: Letter1P
+  - first:
+      213: 8284875533852521659
+    second: Letter1Q
+  - first:
+      213: 4632810502437259909
+    second: Letter1R
+  - first:
+      213: 1692543364103646685
+    second: Letter1S
+  - first:
+      213: 7549141979626212662
+    second: Letter1T
+  - first:
+      213: 8151575684253384257
+    second: Letter1U
+  - first:
+      213: -8034346034668035066
+    second: Letter1V
+  - first:
+      213: -5664104679434777810
+    second: Letter1W
+  - first:
+      213: -6149550698943058015
+    second: Letter1X
+  - first:
+      213: -7698944568761721811
+    second: Letter1Y
+  - first:
+      213: 6767642000216179503
+    second: Letter1Z
+  - first:
+      213: 401945854683818988
+    second: kalam_merriweather_letters_52
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Letter0A
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 817
+        width: 181
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0d71282996cf64c885fe6c5533b8b4
+      internalID: 7957237042772200299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0B
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 815
+        width: 142
+        height: 206
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d13ae814bb90c4abbc8b87c037e5a3
+      internalID: -5371196759857556740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0C
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 814
+        width: 148
+        height: 207
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de11d41b72d8a8c4aa81fb072fd55697
+      internalID: -6975085875639871302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0D
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 814
+        width: 159
+        height: 207
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d40f61c68abcf044aa898b6683471ab
+      internalID: -893030648244245248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0E
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 817
+        width: 128
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9206fbba0486d409aea139ad8cf575
+      internalID: 4816583842258294327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0F
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 817
+        width: 118
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db812a0238729d64f80abf7ccb1919ec
+      internalID: -2997400410169385623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0G
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 814
+        width: 162
+        height: 207
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2933c7052f353d146a5a2dac87eefcd1
+      internalID: -7166091632519414638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0H
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 817
+        width: 156
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b369850570b8649bcc045a68f32f31
+      internalID: -8412880224789767730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0I
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 817
+        width: 34
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d298076c493724ab212936d7854b29
+      internalID: 1130638953638661082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0J
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 773
+        width: 73
+        height: 245
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1289355b896cc3b4a91e0a0dbd5be17d
+      internalID: -1578083714565243627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0K
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 817
+        width: 149
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb27f0f309250ac4cb74592b84b3ca28
+      internalID: 3825037646775957928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0L
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 817
+        width: 113
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaa7ce4ae466cc439e5796bcb6c1c2a
+      internalID: 7063856372282807262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0M
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 814
+        width: 219
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47097aac07a64f643ba49d2a3373ac34
+      internalID: -2376702318389666842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0N
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 563
+        width: 156
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571d430ecf3d08043adaf1edd06e63c2
+      internalID: -3436786172364605902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0O
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 560
+        width: 182
+        height: 206
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e1786445b1e34488faac266d453a7
+      internalID: 5281701937606331257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0P
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 563
+        width: 135
+        height: 203
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad95bbb894aa5849bbfbf711aa3a7aa
+      internalID: -3922533375951058313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0Q
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 523
+        width: 187
+        height: 243
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726965edec4ca224281f70e64b0bcf1a
+      internalID: -2085273783243196227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0R
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 563
+        width: 148
+        height: 203
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00e4beb4b550d4409c73aaddc52cea5
+      internalID: -8565083933647737559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0S
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 560
+        width: 126
+        height: 206
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c9d714ddcaf484c9b58558965cacf4
+      internalID: -60133952053825280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0T
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 563
+        width: 158
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fb8eddecc3fb8489c81ad8494f8082
+      internalID: 3686307751074892882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0U
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 560
+        width: 152
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b59e00da0986640b5546b7861c09ac
+      internalID: 4061857079189444643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0V
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 562
+        width: 175
+        height: 203
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30284bde26f3a74e9f22ecc2d367964
+      internalID: -8368352961755000091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0W
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 560
+        width: 247
+        height: 205
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9daa30f87abfe449a547b209d3e72f
+      internalID: -5805259939620085628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0X
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 563
+        width: 164
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c7bc739bf4e14695a91c71125e76a
+      internalID: -4661444221906426129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0Y
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 563
+        width: 162
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63cb5b891cdfb24ba71b1068941db84
+      internalID: -722887113566257756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter0Z
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 563
+        width: 151
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a754ebe79c8c24a8085d084b3c98f5
+      internalID: 8224948203436623613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1A
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 305
+        width: 150
+        height: 203
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3c31d373aed5468cb5409eae6a7ff
+      internalID: 4089304422749151926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1B
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 305
+        width: 164
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d67208ebf4377b488d7adf5259dd9ef
+      internalID: -945597358533793672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1C
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 310
+        width: 140
+        height: 199
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bbca66d88116648a21888b0e370dff
+      internalID: 9040071385202865291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1D
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 305
+        width: 152
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218179f7fc4e77849b1432fc5ec24c6d
+      internalID: 6191656667615245480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1E
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 305
+        width: 156
+        height: 198
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30153c81e45c1d8498832e1dd2141346
+      internalID: 5272683447281642941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1F
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 305
+        width: 152
+        height: 198
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb98da49f938dcc46bbb2a82ca4af082
+      internalID: 8689557640552942663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1G
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 276
+        width: 140
+        height: 228
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7601463e499f9014daa9c32074abf91b
+      internalID: 8103742442739456008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1H
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 301
+        width: 159
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bb699d651ca0b4ca94219b0e1bb53d
+      internalID: -2556026847861174251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1I
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 306
+        width: 62
+        height: 199
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d19b91ef7392054fbb4a4fb9d257226
+      internalID: 162593553939352791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1J
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 305
+        width: 140
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dfba32782e9a34091b41e0c07d1087
+      internalID: 2188879228073749319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1K
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 306
+        width: 152
+        height: 199
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdaf70372698e44ba91781ef269c02d
+      internalID: -9210586375231146456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1L
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 305
+        width: 123
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82766581696e1774bbed90f6f5c2e4d5
+      internalID: -2917983882165991665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1M
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 306
+        width: 206
+        height: 199
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae90af399006e824dbd19ca78c3c83b9
+      internalID: -8804140643148585073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1N
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 169
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f4ea96b99b67649a7d2ea32fb10d8f
+      internalID: 6562470401103480271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1O
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 53
+        width: 155
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a5e7edd7f8694e82be0dfc1637589
+      internalID: 4822182309927553987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1P
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 52
+        width: 147
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b3d77be69c6c24fb50faca06ae2333
+      internalID: -7254463452954627692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1Q
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7
+        width: 158
+        height: 244
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03341419a454ad34b810ad5bb080ecb2
+      internalID: 8284875533852521659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1R
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 53
+        width: 146
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc1fe4fdc6ff3b47addd3853e159af7
+      internalID: 4632810502437259909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1S
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 53
+        width: 145
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbcc5a50a42be541a9e6d70c9e1c558
+      internalID: 1692543364103646685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1T
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 53
+        width: 156
+        height: 198
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d6ec7a512c624daab6fb746bffc9b
+      internalID: 7549141979626212662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1U
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 51
+        width: 140
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe370dcbaaef0f4695a034581ab4169
+      internalID: 8151575684253384257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1V
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 51
+        width: 149
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf776e06004396a48a231a95304d7cb6
+      internalID: -8034346034668035066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1W
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 53
+        width: 188
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8c76e1765feeb43ad905ba9db1008c
+      internalID: -5664104679434777810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1X
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 53
+        width: 171
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74174650509427e488ad0ba6cbf6105e
+      internalID: -6149550698943058015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1Y
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 50
+        width: 148
+        height: 201
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de74e7ab95f7764690985b6acf6db47
+      internalID: -7698944568761721811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Letter1Z
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 53
+        width: 145
+        height: 196
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4c686f62755924b9f03dd1cefe3393
+      internalID: 6767642000216179503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kalam_merriweather_letters_52
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 45
+        width: 373
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e102007605ee15344911b1f667e4c9da
+      internalID: 401945854683818988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
